@@ -1,5 +1,5 @@
 {
-  "name": "docus-starter",
+  "name": "cybops-doc",
   "scripts": {
     "dev": "nuxt dev --extends docus",
     "build": "nuxt build --extends docus"
