@@ -1,0 +1,1 @@
+import{_ as o}from"./CAP-D7_P.js";import{_ as a,H as n,i as s,w as r,U as _}from"./CBbv1_A4.js";const c={};function f(t,l){const e=o;return s(),n(e,null,{default:r(()=>[_(t.$slots,"default")]),_:3})}const m=a(c,[["render",f]]);export{m as default};
