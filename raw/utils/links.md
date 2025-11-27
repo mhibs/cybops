@@ -1,0 +1,19 @@
+# Utils
+
+> Links
+
+## Links and stuff
+
+[Potatoes - Windows Privilege Escalation](https://jlajara.gitlab.io/Potatoes_Windows_Privesc#hotPotato)[Pentesting Lab - Privilege Escalation - Windows](https://www.isec.tugraz.at/wp-content/uploads/2024/09/03-privilege-escalation-windows-handout.pdf)[Windows Privilege Escalation - Exploiting Misconfigurations in Windows Service Permissions](https://infosecwriteups.com/elevating-permissions-exploit-permission-flaws-in-windows-services-1eb01ac5d782)[Living Off The Land Drivers -  List of Windows drivers used by adversaries to bypass security controls and carry out attacks](https://www.loldrivers.io/)[Windows Service - Detection opportunities](https://redcanary.com/threat-detection-report/techniques/windows-service/)
+
+## Tools
+
+[Crassus Windows privilege escalation discovery tool](https://github.com/vu-ls/Crassus)[Spartacus DLL/COM Hijacking Toolkit](https://github.com/sadreck/Spartacus)[gauntlt - Ruggedization framework for security](https://github.com/gauntlt/gauntlt)
+
+## OT
+
+[OWASP TOP 10 in OT](https://ot.owasp.org/)[ZeroNtek - Cyber Security Lab and blog](https://zerontek.com/zt/)
+
+## Hardening
+
+[Kiosk Mode Hardening by C-bless](https://github.com/c-bless/Kiosk-Mode-Hardening/wiki)
