@@ -14,6 +14,8 @@
 
 [Windows Service - Detection opportunities](https://redcanary.com/threat-detection-report/techniques/windows-service/)
 
+[Oddvar Moe's Blog - Notes from My adventures with Windows security](https://oddvar.moe/)
+
 ## Tools
 
 [Crassus Windows privilege escalation discovery tool](https://github.com/vu-ls/Crassus)
